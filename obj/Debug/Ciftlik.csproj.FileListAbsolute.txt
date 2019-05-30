@@ -1,0 +1,12 @@
+C:\Users\xirap\source\repos\Ciftlik\bin\Debug\DB.mdf
+C:\Users\xirap\source\repos\Ciftlik\bin\Debug\DB_log.ldf
+C:\Users\xirap\source\repos\Ciftlik\bin\Debug\Ciftlik.exe.config
+C:\Users\xirap\source\repos\Ciftlik\bin\Debug\Ciftlik.exe
+C:\Users\xirap\source\repos\Ciftlik\bin\Debug\Ciftlik.pdb
+C:\Users\xirap\source\repos\Ciftlik\obj\Debug\Ciftlik.csprojAssemblyReference.cache
+C:\Users\xirap\source\repos\Ciftlik\obj\Debug\Ciftlik.Properties.Resources.resources
+C:\Users\xirap\source\repos\Ciftlik\obj\Debug\Ciftlik.csproj.GenerateResource.cache
+C:\Users\xirap\source\repos\Ciftlik\obj\Debug\Ciftlik.csproj.CoreCompileInputs.cache
+C:\Users\xirap\source\repos\Ciftlik\obj\Debug\Ciftlik.exe
+C:\Users\xirap\source\repos\Ciftlik\obj\Debug\Ciftlik.pdb
+C:\Users\xirap\source\repos\Ciftlik\obj\Debug\Ciftlik.Form2.resources
